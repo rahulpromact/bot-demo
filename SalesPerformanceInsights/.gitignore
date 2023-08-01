@@ -1,5 +1,8 @@
-# files generated during the lubuild process
 generated/
-/code.zip
-/settings/appsettings.json
-/bin
+bin
+obj
+code.zip
+appsettings.json
+*.log
+
+
