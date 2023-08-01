@@ -1,0 +1,368 @@
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Nuget.config
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\function-template-with-preexisting-rg.json
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\new-rg-parameters.json
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\qna-template.json
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\template-with-new-rg.json
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\package.json
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\settings\appsettings.json
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\recognizers\SalesPerformanceInsights.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\recognizers\SalesPerformanceInsights.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\recognizers\SalesPerformanceInsights.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\language-generation\en-us\common.en-us.lg
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\language-generation\en-us\SalesPerformanceInsights.en-us.lg
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\language-understanding\en-us\SalesPerformanceInsights.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\emptyBot\knowledge-base\en-us\emptyBot.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\knowledge-base\en-us\SalesPerformanceInsights.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.exe
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.deps.json
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.runtimeconfig.json
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.runtimeconfig.dev.json
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.pdb
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\AdaptiveExpressions.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.QnA.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.ApplicationInsights.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Azure.Blobs.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Adaptive.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Adaptive.Runtime.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.ApplicationInsights.Core.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.LanguageGeneration.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.Streaming.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Sequence.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\NuGet.Common.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\NuGet.Configuration.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\NuGet.Packaging.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\NuGet.Versioning.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.IO.Hashing.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.csproj.AssemblyReference.cache
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.AssemblyInfoInputs.cache
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.AssemblyInfo.cs
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.csproj.CoreCompileInputs.cache
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\SalesPerformanceInsights.StaticWebAssets.Manifest.cache
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\SalesPerformanceInsights.StaticWebAssets.Pack.cache
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SalesPerformanceInsights.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SalesPerformanceInsights.props
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SalesPerformanceInsights.props
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SalesPerformanceInsights.props
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.RazorTargetAssemblyInfo.cache
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.csproj.CopyComplete
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.dll
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.pdb
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.genruntimeconfig.cache
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\SalesPerformanceInsights.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\SalesPerformanceInsights.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\OverallRevenuePerformance.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\recognizers\OverallRevenuePerformance.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\recognizers\OverallRevenuePerformance.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\recognizers\OverallRevenuePerformance.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\language-generation\en-us\OverallRevenuePerformance.en-us.lg
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\language-understanding\en-us\OverallRevenuePerformance.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\OverallRevenuePerformance.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\knowledge-base\en-us\OverallRevenuePerformance.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\OverallRevenuePerformance.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\CustomerSegmentRevenuePerformance.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\recognizers\CustomerSegmentRevenuePerformance.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\recognizers\CustomerSegmentRevenuePerformance.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\recognizers\CustomerSegmentRevenuePerformance.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\language-generation\en-us\CustomerSegmentRevenuePerformance.en-us.lg
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\language-understanding\en-us\CustomerSegmentRevenuePerformance.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\CustomerSegmentRevenuePerformance.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\knowledge-base\en-us\CustomerSegmentRevenuePerformance.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\CustomerSegmentRevenuePerformance.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\LeadGeneration.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\recognizers\LeadGeneration.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\recognizers\LeadGeneration.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\recognizers\LeadGeneration.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\ProductPricing.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\recognizers\ProductPricing.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\recognizers\ProductPricing.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\recognizers\ProductPricing.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\recognizers\SalesTalent.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\recognizers\SalesTalent.lu.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\recognizers\SalesTalent.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\SalesTalent.dialog
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\language-generation\en-us\LeadGeneration.en-us.lg
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\language-generation\en-us\ProductPricing.en-us.lg
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\language-generation\en-us\SalesTalent.en-us.lg
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\language-understanding\en-us\LeadGeneration.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\language-understanding\en-us\ProductPricing.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\language-understanding\en-us\SalesTalent.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\LeadGeneration.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\ProductPricing.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\SalesTalent.en-us.lu
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\knowledge-base\en-us\LeadGeneration.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\knowledge-base\en-us\ProductPricing.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\knowledge-base\en-us\SalesTalent.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\LeadGeneration.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\ProductPricing.en-us.qna
+C:\Users\promact\source\repos\Bot\New folder\saturn-bot\SalesPerformanceInsights\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\SalesTalent.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Nuget.config
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\function-template-with-preexisting-rg.json
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\new-rg-parameters.json
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\preexisting-rg-parameters.json
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\qna-template.json
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\template-with-new-rg.json
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\DeploymentTemplates\template-with-preexisting-rg.json
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\scripts\package.json
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\CustomerSegmentRevenuePerformance.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\recognizers\CustomerSegmentRevenuePerformance.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\recognizers\CustomerSegmentRevenuePerformance.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\recognizers\CustomerSegmentRevenuePerformance.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\LeadGeneration.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\recognizers\LeadGeneration.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\recognizers\LeadGeneration.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\recognizers\LeadGeneration.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\OverallRevenuePerformance.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\recognizers\OverallRevenuePerformance.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\recognizers\OverallRevenuePerformance.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\recognizers\OverallRevenuePerformance.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\ProductPricing.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\recognizers\ProductPricing.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\recognizers\ProductPricing.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\recognizers\ProductPricing.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\recognizers\SalesTalent.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\recognizers\SalesTalent.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\recognizers\SalesTalent.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\recognizers\SalesPerformanceInsights.en-us.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\recognizers\SalesPerformanceInsights.lu.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\recognizers\SalesPerformanceInsights.lu.qna.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\language-generation\en-us\CustomerSegmentRevenuePerformance.en-us.lg
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\language-generation\en-us\LeadGeneration.en-us.lg
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\language-generation\en-us\OverallRevenuePerformance.en-us.lg
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\language-generation\en-us\ProductPricing.en-us.lg
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\language-generation\en-us\common.en-us.lg
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\language-generation\en-us\SalesPerformanceInsights.en-us.lg
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\language-understanding\en-us\CustomerSegmentRevenuePerformance.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\language-understanding\en-us\LeadGeneration.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\language-understanding\en-us\OverallRevenuePerformance.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\language-understanding\en-us\ProductPricing.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\language-understanding\en-us\SalesTalent.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\language-understanding\en-us\SalesPerformanceInsights.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\CustomerSegmentRevenuePerformance\knowledge-base\en-us\CustomerSegmentRevenuePerformance.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\emptyBot\knowledge-base\en-us\emptyBot.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\LeadGeneration\knowledge-base\en-us\LeadGeneration.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\OverallRevenuePerformance\knowledge-base\en-us\OverallRevenuePerformance.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\ProductPricing\knowledge-base\en-us\ProductPricing.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\knowledge-base\en-us\SalesTalent.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\knowledge-base\en-us\SalesPerformanceInsights.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\settings\appsettings.json
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\SalesTalent.dialog
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\dialogs\SalesTalent\language-generation\en-us\SalesTalent.en-us.lg
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\CustomerSegmentRevenuePerformance.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\LeadGeneration.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\OverallRevenuePerformance.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\ProductPricing.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\SalesPerformanceInsights.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\SalesTalent.en-us.lu
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\CustomerSegmentRevenuePerformance.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\LeadGeneration.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\OverallRevenuePerformance.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\ProductPricing.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\SalesPerformanceInsights.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\generated\interruption\SalesTalent.en-us.qna
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.exe
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.deps.json
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.runtimeconfig.json
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.runtimeconfig.dev.json
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\SalesPerformanceInsights.pdb
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\AdaptiveExpressions.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.AI.QnA.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.ApplicationInsights.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Azure.Blobs.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Adaptive.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Adaptive.Runtime.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.ApplicationInsights.Core.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Builder.LanguageGeneration.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Connector.Streaming.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Schema.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Recognizers.Text.Sequence.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\NuGet.Common.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\NuGet.Configuration.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\NuGet.Packaging.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\NuGet.Versioning.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.IO.Hashing.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.csproj.AssemblyReference.cache
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.AssemblyInfoInputs.cache
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.AssemblyInfo.cs
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.csproj.CoreCompileInputs.cache
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\SalesPerformanceInsights.StaticWebAssets.Manifest.cache
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\SalesPerformanceInsights.StaticWebAssets.Pack.cache
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SalesPerformanceInsights.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SalesPerformanceInsights.props
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SalesPerformanceInsights.props
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SalesPerformanceInsights.props
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.RazorTargetAssemblyInfo.cache
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.csproj.CopyComplete
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.dll
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.pdb
+C:\Users\promact\source\repos\Bot\saturn-sales-performance-insights-bot\SalesPerformanceInsights\obj\Debug\netcoreapp3.1\SalesPerformanceInsights.genruntimeconfig.cache

@@ -1,8 +1,7 @@
 generated/
-bin
-obj
+bin/
 code.zip
 appsettings.json
-*.log
+provision.SalesPerformanceInsights.log
 
 
