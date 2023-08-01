@@ -1,0 +1,121 @@
+[import](common.lg)
+
+# TextInput_Prompt_K3fb3W()
+[Activity
+    Text = ${TextInput_Prompt_K3fb3W_text()}
+]
+
+# TextInput_Prompt_K3fb3W_text()
+- Name of your highest contributing customer/ customer segment
+# NumberInput_Prompt_kDeRwh()
+[Activity
+    Text = ${NumberInput_Prompt_kDeRwh_text()}
+]
+
+# NumberInput_Prompt_kDeRwh_text()
+- What was the revenue in FY22 from ${user.customer1}? Value in INR Cr.
+# NumberInput_Prompt_byIGbt()
+[Activity
+    Text = ${NumberInput_Prompt_byIGbt_text()}
+]
+
+# NumberInput_Prompt_byIGbt_text()
+- What was revenue in FY23 from ${user.customer1}? Value in INR Cr.
+# NumberInput_Prompt_NjHSj0()
+[Activity
+    Text = ${NumberInput_Prompt_NjHSj0_text()}
+]
+
+# NumberInput_Prompt_NjHSj0_text()
+- What was the revenue in FY22 from ${user.customer2}? Value in INR Cr.
+# NumberInput_Prompt_gVeGkm()
+[Activity
+    Text = ${NumberInput_Prompt_gVeGkm_text()}
+]
+
+# NumberInput_Prompt_gVeGkm_text()
+- What was the revenue in FY23 from ${user.customer2}? Value in INR Cr.
+# TextInput_Prompt_B7bYDA()
+[Activity
+    Text = ${TextInput_Prompt_B7bYDA_text()}
+]
+
+# TextInput_Prompt_B7bYDA_text()
+- Name of your 3rd highest contributing customer/ customer segment.
+# NumberInput_Prompt_6U0181()
+[Activity
+    Text = ${NumberInput_Prompt_6U0181_text()}
+]
+
+# NumberInput_Prompt_6U0181_text()
+- What was the revenue in FY22 from ${user.customer3}? Value in INR Cr.
+# NumberInput_Prompt_mlgnef()
+[Activity
+    Text = ${NumberInput_Prompt_mlgnef_text()}
+]
+
+# NumberInput_Prompt_mlgnef_text()
+- What was the revenue in FY23 from ${user.customer3}? Value in INR Cr.
+# NumberInput_InvalidPrompt_mlgnef()
+[Activity
+    Text = ${NumberInput_InvalidPrompt_mlgnef_text()}
+]
+
+# NumberInput_InvalidPrompt_mlgnef_text()
+- int(this.value) >=0
+# SendActivity_jsbG5F()
+[Activity
+    Text = ${SendActivity_jsbG5F_text()}
+]
+
+# SendActivity_jsbG5F_text()
+- How do you agree with the following statement?
+# ChoiceInput_Prompt_FbmJEh()
+[Activity
+    Text = ${ChoiceInput_Prompt_FbmJEh_text()}
+]
+
+# ChoiceInput_Prompt_FbmJEh_text()
+- Bad customer service and support
+# ChoiceInput_Prompt_ozo3Bd_text()
+- Not keeping customers happy and loyal
+# ChoiceInput_Prompt_ozo3Bd()
+[Activity
+    Text = ${ChoiceInput_Prompt_ozo3Bd_text()}
+]
+
+# ChoiceInput_Prompt_47rBDE_text()
+- Not meeting customer expectations
+# ChoiceInput_Prompt_47rBDE()
+[Activity
+    Text = ${ChoiceInput_Prompt_47rBDE_text()}
+]
+
+# ChoiceInput_Prompt_LaHFPR_text()
+- Not managing customer relationships well
+# ChoiceInput_Prompt_LaHFPR()
+[Activity
+    Text = ${ChoiceInput_Prompt_LaHFPR_text()}
+]
+
+# ChoiceInput_Prompt_QxdBpU_text()
+- Not able retain customers
+# ChoiceInput_Prompt_QxdBpU()
+[Activity
+    Text = ${ChoiceInput_Prompt_QxdBpU_text()}
+]
+
+# ChoiceInput_Prompt_caO86X_text()
+- Too much dependent on only a few customers
+# ChoiceInput_Prompt_caO86X()
+[Activity
+    Text = ${ChoiceInput_Prompt_caO86X_text()}
+]
+
+# TextInput_Prompt_qwZ4ui()
+[Activity
+    Text = ${TextInput_Prompt_qwZ4ui_text()}
+]
+
+# TextInput_Prompt_qwZ4ui_text()
+- Name of your 2nd highest contributing customer/ customer segment

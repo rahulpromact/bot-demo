@@ -1,0 +1,206 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "9gb7gi",
+    "name": "SalesTalent",
+    "comment": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "B7xotN"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "ASP1Qo"
+          },
+          "activity": "${SendActivity_ASP1Qo()}"
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "Ca0GDT"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_Ca0GDT()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or ",
+            "inlineOr": " or "
+          },
+          "property": "user.salesTraining",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "fhl6wG"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_fhl6wG()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or ",
+            "inlineOr": " or "
+          },
+          "property": "user.salesforceSatisfaction",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "1NTPzL"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_1NTPzL()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or ",
+            "inlineOr": " or "
+          },
+          "property": "user.salesPerformensInsentive",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "pcAmc9"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_pcAmc9()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or ",
+            "inlineOr": " or ",
+            "inlineSeparator": ", "
+          },
+          "property": "user.salesTools",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.HttpRequest",
+          "$designer": {
+            "id": "tRQbMF"
+          },
+          "resultProperty": "turn.results",
+          "method": "POST",
+          "url": "https://dev.api.stratformx.com/api/app/bot/save-bot-data?firstSheetId=5270E08D-77D9-4A94-BAAD-E236E9828678&secondSheetId=A2E63200-012C-498B-B071-89353BD895C1&tableName=Sales_Insights_Response",
+          "body": [
+            "${turn.activity.from.id}",
+            "${user.revenueFY22}",
+            "${user.revenueFY23}",
+            "${user.revenueQ3FY23}",
+            "${user.revenueQ4FY23}",
+            "${user.revenueQ1FY24}",
+            "${user.revenueFY24}",
+            "${user.product1Name}",
+            "${user.product1RevenueFY22}",
+            "${user.product1RevenueFY23}",
+            "${user.product2Name}",
+            "${user.product2RevenueFY22}",
+            "${user.product2RevenueFY23}",
+            "${user.product3Name}",
+            "${user.product3RevenueFY22}",
+            "${user.product3RevenueFY23}",
+            "${user.competitivePricing}",
+            "${user.productsFeatures}",
+            "${user.productQuality}",
+            "${user.newProductDevelopment}",
+            "${user.customer1}",
+            "${user.customer1RevenueFY22}",
+            "${user.customer1RevenueFY23}",
+            "${user.customer2}",
+            "${user.customer2RevenueFY22}",
+            "${user.customer2RevenueFY23}",
+            "${user.customer3}",
+            "${user.customer3RevenueFY22}",
+            "${user.customer3RevenueFY22}",
+            "${user.customerService}",
+            "${user.customerSatisfaction}",
+            "${user.customerExpectations}",
+            "${user.customerRelations}",
+            "${user.customerReatin}",
+            "${user.customerDependent}",
+            "${user.marketingSpend}",
+            "${user.customerTargeting}",
+            "${user.leadQualification}",
+            "${user.marketingChannel}",
+            "${user.salesTraining}",
+            "${user.salesforceSatisfaction}",
+            "${user.salesPerformensInsentive}",
+            "${user.salesTools}"
+          ]
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "hsCbA6"
+          },
+          "activity": "${SendActivity_hsCbA6()}"
+        }
+      ]
+    }
+  ],
+  "generator": "SalesTalent.lg",
+  "recognizer": "SalesTalent.lu.qna",
+  "id": "SalesTalent"
+}
