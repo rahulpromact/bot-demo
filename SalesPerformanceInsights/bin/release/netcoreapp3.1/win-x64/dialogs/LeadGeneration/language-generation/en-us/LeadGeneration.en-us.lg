@@ -1,0 +1,36 @@
+[import](common.lg)
+
+# SendActivity_1WB5CR()
+[Activity
+    Text = ${SendActivity_1WB5CR_text()}
+]
+
+# SendActivity_1WB5CR_text()
+- How do you agree with the following statement?
+# ChoiceInput_Prompt_fpp3n3()
+[Activity
+    Text = ${ChoiceInput_Prompt_fpp3n3_text()}
+]
+
+# ChoiceInput_Prompt_fpp3n3_text()
+- Not spending enough money on marketing
+# ChoiceInput_Prompt_tg1Hxx_text()
+- Not reaching the right customers
+# ChoiceInput_Prompt_tg1Hxx()
+[Activity
+    Text = ${ChoiceInput_Prompt_tg1Hxx_text()}
+]
+
+# ChoiceInput_Prompt_0dPE0d_text()
+- Not knowing which leads are worth following
+# ChoiceInput_Prompt_0dPE0d()
+[Activity
+    Text = ${ChoiceInput_Prompt_0dPE0d_text()}
+]
+
+# ChoiceInput_Prompt_4aDisH_text()
+- Not using the right ways to find customers
+# ChoiceInput_Prompt_4aDisH()
+[Activity
+    Text = ${ChoiceInput_Prompt_4aDisH_text()}
+]

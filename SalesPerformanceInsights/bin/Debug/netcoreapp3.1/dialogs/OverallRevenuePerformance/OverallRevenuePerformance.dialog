@@ -1,0 +1,136 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "N8fMJj",
+    "name": "OverallRevenuePerformance",
+    "comment": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "Bka2uj"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "sBcpNw"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 1000,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${NumberInput_Prompt_sBcpNw()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "${NumberInput_InvalidPrompt_sBcpNw()}",
+          "property": "user.revenueFY22",
+          "validations": [
+            "int(this.value) >=0"
+          ]
+        },
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "QSgVum"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${NumberInput_Prompt_QSgVum()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "property": "user.revenueFY23",
+          "validations": [
+            "int(this.value) >=0"
+          ]
+        },
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "8pzlZM"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "invalidPrompt": "${NumberInput_InvalidPrompt_8pzlZM()}",
+          "prompt": "${NumberInput_Prompt_8pzlZM()}",
+          "property": "user.revenueQ3FY23",
+          "validations": [
+            "int(this.value) >=0"
+          ]
+        },
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "9JO1vp"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "invalidPrompt": "${NumberInput_InvalidPrompt_9JO1vp()}",
+          "prompt": "${NumberInput_Prompt_9JO1vp()}",
+          "property": "user.revenueQ4FY23",
+          "validations": [
+            "int(this.value) >=0"
+          ]
+        },
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "RwwWr7"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "prompt": "${NumberInput_Prompt_RwwWr7()}",
+          "property": "user.revenueQ1FY24"
+        },
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "sn3gr3"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${NumberInput_Prompt_sn3gr3()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "property": "user.revenueFY24",
+          "validations": [
+            "int(this.value) >=0"
+          ]
+        },
+        {
+          "$kind": "Microsoft.BeginDialog",
+          "$designer": {
+            "id": "qBMJr5"
+          },
+          "activityProcessed": true,
+          "dialog": "ProductPricing"
+        }
+      ]
+    }
+  ],
+  "generator": "OverallRevenuePerformance.lg",
+  "recognizer": "OverallRevenuePerformance.lu.qna",
+  "id": "OverallRevenuePerformance"
+}

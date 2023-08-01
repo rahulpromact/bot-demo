@@ -1,0 +1,151 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "IBjOUR",
+    "name": "LeadGeneration",
+    "comment": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "AvOd90"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "1WB5CR"
+          },
+          "activity": "${SendActivity_1WB5CR()}"
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "fpp3n3"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_fpp3n3()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or "
+          },
+          "property": "user.marketingSpend",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "tg1Hxx"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_tg1Hxx()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or ",
+            "inlineOr": " or "
+          },
+          "property": "user.customerTargeting",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "0dPE0d"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_0dPE0d()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or ",
+            "inlineOr": " or "
+          },
+          "property": "user.leadQualification",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "4aDisH"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_4aDisH()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or ",
+            "inlineOr": " or "
+          },
+          "property": "user.marketingChannel",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.BeginDialog",
+          "$designer": {
+            "id": "syvLKn"
+          },
+          "activityProcessed": true,
+          "dialog": "SalesTalent"
+        }
+      ]
+    }
+  ],
+  "generator": "LeadGeneration.lg",
+  "recognizer": "LeadGeneration.lu.qna",
+  "id": "LeadGeneration"
+}

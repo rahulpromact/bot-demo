@@ -1,0 +1,106 @@
+[import](common.lg)
+
+# ChoiceInput_Prompt_hr85Zv_text()
+- Not spending enough money on marketing
+# ChoiceInput_Prompt_hr85Zv()
+[Activity
+    Text = ${ChoiceInput_Prompt_hr85Zv_text()}
+]
+
+# ChoiceInput_Prompt_gLRcte_text()
+- Prices are not competitive
+# ChoiceInput_Prompt_gLRcte()
+[Activity
+    Text = ${ChoiceInput_Prompt_gLRcte_text()}
+]
+
+# SendActivity_VBZvak()
+[Activity
+    Text = ${SendActivity_VBZvak_text()}
+]
+
+# SendActivity_VBZvak_text()
+- How do you agree with the following statement?
+# ChoiceInput_Prompt_Y8UK0I_text()
+- Not enough features or options
+# ChoiceInput_Prompt_Y8UK0I()
+[Activity
+    Text = ${ChoiceInput_Prompt_Y8UK0I_text()}
+]
+
+# ChoiceInput_Prompt_sav8CD_text()
+- Product/ service quality is low
+# ChoiceInput_Prompt_sav8CD()
+[Activity
+    Text = ${ChoiceInput_Prompt_sav8CD_text()}
+]
+
+# ChoiceInput_Prompt_DjZU5f_text()
+- Not improving products/services quickly
+# ChoiceInput_Prompt_DjZU5f()
+[Activity
+    Text = ${ChoiceInput_Prompt_DjZU5f_text()}
+]
+
+# TextInput_Prompt_bDxBcx_text()
+- Name of your highest selling product
+# TextInput_Prompt_bDxBcx()
+[Activity
+    Text = ${TextInput_Prompt_bDxBcx_text()}
+]
+
+# NumberInput_Prompt_nxYfbr_text()
+- What was the revenue in FY22 from ${user.product1Name}? Value in INR Cr.
+# NumberInput_Prompt_nxYfbr()
+[Activity
+    Text = ${NumberInput_Prompt_nxYfbr_text()}
+]
+
+# NumberInput_Prompt_PwzOc8_text()
+- What was revenue in FY23 from ${user.product1Name}? Value in INR Cr.
+# NumberInput_Prompt_PwzOc8()
+[Activity
+    Text = ${NumberInput_Prompt_PwzOc8_text()}
+]
+
+# TextInput_Prompt_QIOh9k_text()
+- Name of your 2nd highest selling product
+# TextInput_Prompt_QIOh9k()
+[Activity
+    Text = ${TextInput_Prompt_QIOh9k_text()}
+]
+
+# NumberInput_Prompt_YoOpLa_text()
+- What was the revenue in FY22 from ${user.product2Name}? Value in INR Cr.
+# NumberInput_Prompt_YoOpLa()
+[Activity
+    Text = ${NumberInput_Prompt_YoOpLa_text()}
+]
+
+# NumberInput_Prompt_6sdwpl_text()
+- What was revenue in FY23 from ${user.product2Name}? Value in INR Cr.
+# NumberInput_Prompt_6sdwpl()
+[Activity
+    Text = ${NumberInput_Prompt_6sdwpl_text()}
+]
+
+# TextInput_Prompt_ugv4zd_text()
+- Name of your 3rd highest selling product
+# TextInput_Prompt_ugv4zd()
+[Activity
+    Text = ${TextInput_Prompt_ugv4zd_text()}
+]
+
+# NumberInput_Prompt_7Lsni0_text()
+- What was the revenue in FY22 from ${user.product3Name}? Value in INR Cr.
+# NumberInput_Prompt_7Lsni0()
+[Activity
+    Text = ${NumberInput_Prompt_7Lsni0_text()}
+]
+
+# NumberInput_Prompt_YrWmQo_text()
+- What was revenue in FY23 from 3rd highest selling product? Value in INR Cr.
+# NumberInput_Prompt_YrWmQo()
+[Activity
+    Text = ${NumberInput_Prompt_YrWmQo_text()}
+]

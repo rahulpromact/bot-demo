@@ -1,0 +1,61 @@
+[import](common.lg)
+
+# NumberInput_Prompt_sBcpNw()
+[Activity
+    Text = ${NumberInput_Prompt_sBcpNw_text()}
+]
+
+# NumberInput_Prompt_sBcpNw_text()
+- What was your revenue in FY22 (April 21 to Mar 2022)?
+# NumberInput_InvalidPrompt_sBcpNw()
+[Activity
+    Text = ${NumberInput_InvalidPrompt_sBcpNw_text()}
+]
+
+# NumberInput_InvalidPrompt_sBcpNw_text()
+- Please enter positive values.
+# NumberInput_Prompt_QSgVum()
+[Activity
+    Text = ${NumberInput_Prompt_QSgVum_text()}
+]
+
+# NumberInput_Prompt_QSgVum_text()
+- What was your revenue in FY23 (April 22 to Mar 2023)?
+# NumberInput_InvalidPrompt_8pzlZM()
+[Activity
+    Text = ${NumberInput_InvalidPrompt_8pzlZM_text()}
+]
+
+# NumberInput_InvalidPrompt_8pzlZM_text()
+- What was your Revenue in 3rd quarter of FY23 (Oct 22 to Dec 2023)?
+# NumberInput_Prompt_8pzlZM()
+[Activity
+    Text = ${NumberInput_Prompt_8pzlZM_text()}
+]
+
+# NumberInput_Prompt_8pzlZM_text()
+- ```What was your Revenue in 3rd quarter of FY23 (Oct 22 to Dec 2023)?
+```
+# NumberInput_Prompt_9JO1vp()
+[Activity
+    Text = ${NumberInput_Prompt_9JO1vp_text()}
+]
+
+# NumberInput_Prompt_9JO1vp_text()
+- What was your Revenue in 4th quarter in FY23 (Jan 23 to Mar 2023)?
+# NumberInput_Prompt_RwwWr7()
+[Activity
+    Text = ${NumberInput_Prompt_RwwWr7_text()}
+]
+
+# NumberInput_Prompt_RwwWr7_text()
+- What is your estimated Revenue in 1st quarter in FY24 (April 23 to Jun 2023)?
+# NumberInput_Prompt_sn3gr3()
+[Activity
+    Text = ${NumberInput_Prompt_sn3gr3_text()}
+]
+
+# NumberInput_Prompt_sn3gr3_text()
+- What is  your estimated revenue in FY24 (April 23 to Mar 2024)?
+# NumberInput_InvalidPrompt_9JO1vp()
+-

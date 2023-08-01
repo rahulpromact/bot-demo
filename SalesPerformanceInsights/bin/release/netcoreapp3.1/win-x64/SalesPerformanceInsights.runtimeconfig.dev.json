@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\promact\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\promact\\.nuget\\packages"
+    ]
+  }
+}

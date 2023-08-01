@@ -1,0 +1,44 @@
+[import](common.lg)
+
+# SendActivity_ASP1Qo()
+[Activity
+    Text = ${SendActivity_ASP1Qo_text()}
+]
+
+# SendActivity_ASP1Qo_text()
+- How do you agree with the following statement?
+# ChoiceInput_Prompt_Ca0GDT_text()
+- Not training the sales team enough
+# ChoiceInput_Prompt_Ca0GDT()
+[Activity
+    Text = ${ChoiceInput_Prompt_Ca0GDT_text()}
+]
+
+# ChoiceInput_Prompt_fhl6wG_text()
+- Sales team not motivated or engaged
+# ChoiceInput_Prompt_fhl6wG()
+[Activity
+    Text = ${ChoiceInput_Prompt_fhl6wG_text()}
+]
+
+# ChoiceInput_Prompt_1NTPzL_text()
+- Sales goals and rewards don't match
+# ChoiceInput_Prompt_1NTPzL()
+[Activity
+    Text = ${ChoiceInput_Prompt_1NTPzL_text()}
+]
+
+# ChoiceInput_Prompt_pcAmc9_text()
+- Not having good tools for sales team
+# ChoiceInput_Prompt_pcAmc9()
+[Activity
+    Text = ${ChoiceInput_Prompt_pcAmc9_text()}
+]
+
+# SendActivity_hsCbA6()
+[Activity
+    Text = ${SendActivity_hsCbA6_text()}
+]
+
+# SendActivity_hsCbA6_text()
+- Thanks for completing!

@@ -1,0 +1,296 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "4KfuKV",
+    "name": "ProductPricing",
+    "comment": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "ZQ1G2s"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.TextInput",
+          "$designer": {
+            "id": "bDxBcx"
+          },
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${TextInput_Prompt_bDxBcx()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "property": "user.product1Name"
+        },
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "nxYfbr"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "prompt": "${NumberInput_Prompt_nxYfbr()}",
+          "property": "user.product1RevenueFY22"
+        },
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "PwzOc8"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${NumberInput_Prompt_PwzOc8()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "property": "user.product1RevenueFY23",
+          "validations": [
+            "int(this.value) >=0"
+          ]
+        },
+        {
+          "$kind": "Microsoft.TextInput",
+          "$designer": {
+            "id": "QIOh9k"
+          },
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${TextInput_Prompt_QIOh9k()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "property": "user.product2Name"
+        },
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "YoOpLa"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${NumberInput_Prompt_YoOpLa()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "property": "user.product2RevenueFY22"
+        },
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "6sdwpl"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${NumberInput_Prompt_6sdwpl()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "property": "user.product2RevenueFY23"
+        },
+        {
+          "$kind": "Microsoft.TextInput",
+          "$designer": {
+            "id": "ugv4zd"
+          },
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${TextInput_Prompt_ugv4zd()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "property": "user.product3Name"
+        },
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "7Lsni0"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${NumberInput_Prompt_7Lsni0()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "property": "user.product3RevenueFY22"
+        },
+        {
+          "$kind": "Microsoft.NumberInput",
+          "$designer": {
+            "id": "YrWmQo"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${NumberInput_Prompt_YrWmQo()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "property": "user.product3RevenueFY23"
+        },
+        {
+          "$kind": "Microsoft.SendActivity",
+          "$designer": {
+            "id": "VBZvak"
+          },
+          "activity": "${SendActivity_VBZvak()}"
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "gLRcte"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_gLRcte()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or ",
+            "inlineOr": " or "
+          },
+          "property": "user.competitivePricing",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "Y8UK0I"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_Y8UK0I()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or ",
+            "inlineOr": " or "
+          },
+          "property": "user.productsFeatures",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "sav8CD"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_sav8CD()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or ",
+            "inlineOr": " or ",
+            "inlineSeparator": ", "
+          },
+          "property": "user.productQuality",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.ChoiceInput",
+          "$designer": {
+            "id": "DjZU5f"
+          },
+          "defaultLocale": "en-us",
+          "disabled": false,
+          "maxTurnCount": 3,
+          "alwaysPrompt": false,
+          "allowInterruptions": false,
+          "prompt": "${ChoiceInput_Prompt_DjZU5f()}",
+          "unrecognizedPrompt": "",
+          "invalidPrompt": "",
+          "defaultValueResponse": "",
+          "choiceOptions": {
+            "includeNumbers": true,
+            "inlineOrMore": ", or ",
+            "inlineOr": " or "
+          },
+          "property": "user.newProductDevelopment",
+          "choices": [
+            "Strongly agree",
+            "Agree",
+            "Neutral",
+            "Disagree",
+            "Strongly disagree"
+          ]
+        },
+        {
+          "$kind": "Microsoft.BeginDialog",
+          "$designer": {
+            "id": "YL2L1A"
+          },
+          "activityProcessed": true,
+          "dialog": "CustomerSegmentRevenuePerformance"
+        }
+      ]
+    }
+  ],
+  "generator": "ProductPricing.lg",
+  "recognizer": "ProductPricing.lu.qna",
+  "id": "ProductPricing"
+}
